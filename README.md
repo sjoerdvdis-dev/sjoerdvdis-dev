@@ -7,6 +7,7 @@ Specialized in rapidly building software through agentic coding
 ![Supabase](https://img.shields.io/badge/Supabase-18181b?style=flat-square&logo=supabase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-18181b?style=flat-square&logo=postgresql&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-18181b?style=flat-square&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=white)
 
 **Currently:** Maintaining ERP and data warehouse systems while building modernized replacements.
 
