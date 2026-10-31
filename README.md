@@ -1,6 +1,6 @@
 # Sjoerd
 
-Software Engineer. I use a software factory strategy to build software through agentic coding.
+Specialized in rapidly building software through agentic coding
 
 ![Next.js](https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=white)
