@@ -9,7 +9,9 @@ Specialized in rapidly building software through agentic coding
 ![.NET](https://img.shields.io/badge/.NET-18181b?style=flat-square&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=white)
 
-**Currently:** Maintaining ERP and data warehouse systems while building modernized replacements.
+**Currently:** 
+- Maintaining ERP and data warehouse systems while building modernized replacements.
+- Building a Personal Jellyfin replacement
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-18181b?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNC45ODd2Ni4zMDBoLjAwMXpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/sjoerd-van-dis/)
 [![X](https://img.shields.io/badge/%40DisSjoerd-18181b?style=flat-square&logo=x&logoColor=white)](https://x.com/DisSjoerd)
